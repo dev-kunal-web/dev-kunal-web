@@ -1,5 +1,5 @@
 # 💫 About Me:
-✌ I'm am currently building website templates<br>👨‍🎓 I'm a student<br>😎 I have learnt HTML and CSS
+✌ I'm am currently building website templates<br>👨‍🎓 I'm a student<br>😎 I have learnt HTML and CSS<br>💲 Freelancing
 
 
 ## 🌐 Socials:
