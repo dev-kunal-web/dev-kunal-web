@@ -4,30 +4,30 @@
   </a>
   <br>
   <p>
-    <a href="https://medium.com/@taseikyo">
+    <a href="https://github.com/dev-kunal-web">
       <img width="18" height="18" src="https://github.com/taseikyo/taseikyo/blob/master/images/medium.svg" title="Medium" />
     </a>
-    <a href="https://stackoverflow.com/users/7669794/taseikyo">
+    <a href="https://github.com/dev-kunal-web">
       <img width="18" height="18" src="https://github.com/taseikyo/taseikyo/blob/master/images/stackoverflow.svg" title="stackoverflow" />
     </a>
-    <a href="mailto:taseikyo@gmail.com">
+    <a href="https://github.com/dev-kunal-web">
       <img width="18" height="18" src="https://github.com/taseikyo/taseikyo/blob/master/images/email.svg" title="email" />
     </a>
   </p>
   <p>
-  	<a href="https://github.com/taseikyo">
+  	<a href="https://github.com/dev-kunal-web">
   	  <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103">
   	</a>
-  	<a href="https://github.com/taseikyo">
+  	<a href="https://github.com/dev-kunal-web">
   	  <img src="https://img.shields.io/github/followers/taseikyo.svg?lable=GitHub&style=social">
   	</a>
-  	<a href="https://github.com/taseikyo">
+  	<a href="https://github.com/dev-kunal-web">
   	  <img src="https://visitor-badge.laobi.icu/badge?page_id=taseikyo.taseikyo">
   	</a>
   </p>
   <p>Hi, I'm Lewis, a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me.</p>
   <p>
-    <a href="https://github.com/taseikyo">
+    <a href="https://github.com/dev-kunal-web">
       <img src="https://github-readme-stats.vercel.app/api?username=taseikyo&show_icons=true&hide_border=true" />
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taseikyo&hide_border=true&layout=compact&langs_count=8" />
     </a>
