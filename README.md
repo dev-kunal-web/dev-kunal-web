@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://github.com/taseikyo">
-    <img width="60" height="60" src="https://avatars3.githubusercontent.com/u/23132915?s=460&u=6aed8d3229553ec6e00d1f8a684df0cd4d4a9abd&v=4" />
+  <a href="https://github.com/dev-kunal-web">
+    <img width="60" height="60" src="https://avatars.githubusercontent.com/u/285170489?v=4" />
   </a>
   <br>
   <p>
